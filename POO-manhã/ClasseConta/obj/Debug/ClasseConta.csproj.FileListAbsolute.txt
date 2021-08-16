@@ -1,0 +1,7 @@
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\20212\POO-manhã\ClasseConta\bin\Debug\ClasseConta.exe.config
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\20212\POO-manhã\ClasseConta\bin\Debug\ClasseConta.exe
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\20212\POO-manhã\ClasseConta\bin\Debug\ClasseConta.pdb
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\20212\POO-manhã\ClasseConta\obj\Debug\ClasseConta.csprojAssemblyReference.cache
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\20212\POO-manhã\ClasseConta\obj\Debug\ClasseConta.csproj.CoreCompileInputs.cache
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\20212\POO-manhã\ClasseConta\obj\Debug\ClasseConta.exe
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\20212\POO-manhã\ClasseConta\obj\Debug\ClasseConta.pdb

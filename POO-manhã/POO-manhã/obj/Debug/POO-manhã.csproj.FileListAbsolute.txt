@@ -1,0 +1,7 @@
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\20212\POO-manhã\POO-manhã\bin\Debug\POO-manhã.exe.config
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\20212\POO-manhã\POO-manhã\bin\Debug\POO-manhã.exe
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\20212\POO-manhã\POO-manhã\bin\Debug\POO-manhã.pdb
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\20212\POO-manhã\POO-manhã\obj\Debug\POO-manhã.csprojAssemblyReference.cache
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\20212\POO-manhã\POO-manhã\obj\Debug\POO-manhã.csproj.CoreCompileInputs.cache
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\20212\POO-manhã\POO-manhã\obj\Debug\POO-manhã.exe
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\20212\POO-manhã\POO-manhã\obj\Debug\POO-manhã.pdb
