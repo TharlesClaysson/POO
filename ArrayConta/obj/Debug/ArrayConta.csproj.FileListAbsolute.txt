@@ -1,0 +1,7 @@
+C:\Users\dodoe\Downloads\18_08_POO-manhã\POO-manhã\ArrayConta\bin\Debug\ArrayConta.exe.config
+C:\Users\dodoe\Downloads\18_08_POO-manhã\POO-manhã\ArrayConta\bin\Debug\ArrayConta.exe
+C:\Users\dodoe\Downloads\18_08_POO-manhã\POO-manhã\ArrayConta\bin\Debug\ArrayConta.pdb
+C:\Users\dodoe\Downloads\18_08_POO-manhã\POO-manhã\ArrayConta\obj\Debug\ArrayConta.csproj.AssemblyReference.cache
+C:\Users\dodoe\Downloads\18_08_POO-manhã\POO-manhã\ArrayConta\obj\Debug\ArrayConta.csproj.CoreCompileInputs.cache
+C:\Users\dodoe\Downloads\18_08_POO-manhã\POO-manhã\ArrayConta\obj\Debug\ArrayConta.exe
+C:\Users\dodoe\Downloads\18_08_POO-manhã\POO-manhã\ArrayConta\obj\Debug\ArrayConta.pdb

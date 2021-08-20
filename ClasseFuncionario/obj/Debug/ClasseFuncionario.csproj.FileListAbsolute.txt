@@ -1,0 +1,7 @@
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\20212\POO-manhã\ClasseFuncionario\bin\Debug\ClasseFuncionario.exe.config
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\20212\POO-manhã\ClasseFuncionario\bin\Debug\ClasseFuncionario.exe
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\20212\POO-manhã\ClasseFuncionario\bin\Debug\ClasseFuncionario.pdb
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\20212\POO-manhã\ClasseFuncionario\obj\Debug\ClasseFuncionario.csprojAssemblyReference.cache
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\20212\POO-manhã\ClasseFuncionario\obj\Debug\ClasseFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\20212\POO-manhã\ClasseFuncionario\obj\Debug\ClasseFuncionario.exe
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\20212\POO-manhã\ClasseFuncionario\obj\Debug\ClasseFuncionario.pdb
