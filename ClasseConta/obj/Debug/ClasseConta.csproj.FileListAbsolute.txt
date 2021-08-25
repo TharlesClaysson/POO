@@ -12,3 +12,10 @@ C:\Users\dodoe\Downloads\18_08_POO-manhã\POO-manhã\ClasseConta\obj\Debug\Class
 C:\Users\dodoe\Downloads\18_08_POO-manhã\POO-manhã\ClasseConta\bin\Debug\ClasseConta.exe.config
 C:\Users\dodoe\Downloads\18_08_POO-manhã\POO-manhã\ClasseConta\bin\Debug\ClasseConta.exe
 C:\Users\dodoe\Downloads\18_08_POO-manhã\POO-manhã\ClasseConta\bin\Debug\ClasseConta.pdb
+C:\Users\dodoe\Documents\MeusProjetos\POO\ClasseConta\bin\Debug\ClasseConta.exe.config
+C:\Users\dodoe\Documents\MeusProjetos\POO\ClasseConta\bin\Debug\ClasseConta.exe
+C:\Users\dodoe\Documents\MeusProjetos\POO\ClasseConta\bin\Debug\ClasseConta.pdb
+C:\Users\dodoe\Documents\MeusProjetos\POO\ClasseConta\obj\Debug\ClasseConta.csproj.AssemblyReference.cache
+C:\Users\dodoe\Documents\MeusProjetos\POO\ClasseConta\obj\Debug\ClasseConta.csproj.CoreCompileInputs.cache
+C:\Users\dodoe\Documents\MeusProjetos\POO\ClasseConta\obj\Debug\ClasseConta.exe
+C:\Users\dodoe\Documents\MeusProjetos\POO\ClasseConta\obj\Debug\ClasseConta.pdb

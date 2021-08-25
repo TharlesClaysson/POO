@@ -1,0 +1,7 @@
+C:\Users\dodoe\Documents\MeusProjetos\POO\EncapsulamentoFuncionario\bin\Debug\EncapsulamentoFuncionario.exe.config
+C:\Users\dodoe\Documents\MeusProjetos\POO\EncapsulamentoFuncionario\bin\Debug\EncapsulamentoFuncionario.exe
+C:\Users\dodoe\Documents\MeusProjetos\POO\EncapsulamentoFuncionario\bin\Debug\EncapsulamentoFuncionario.pdb
+C:\Users\dodoe\Documents\MeusProjetos\POO\EncapsulamentoFuncionario\obj\Debug\EncapsulamentoFuncionario.csproj.AssemblyReference.cache
+C:\Users\dodoe\Documents\MeusProjetos\POO\EncapsulamentoFuncionario\obj\Debug\EncapsulamentoFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\dodoe\Documents\MeusProjetos\POO\EncapsulamentoFuncionario\obj\Debug\EncapsulamentoFuncionario.exe
+C:\Users\dodoe\Documents\MeusProjetos\POO\EncapsulamentoFuncionario\obj\Debug\EncapsulamentoFuncionario.pdb
